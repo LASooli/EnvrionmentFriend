@@ -1,4 +1,4 @@
-public_html is the main folder.
+domains/environmentfriend/public_html is the main folder.
 
 This is my dropshipping website.
 
